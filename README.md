@@ -99,11 +99,11 @@ mage-brightdata-demo/
 | [Amazon Products](https://brightdata.com/products/web-scraper/amazon) | `gd_l7q7dkf244hwjntr0` | Discover products by keyword |
 | [Amazon Reviews](https://brightdata.com/products/web-scraper/amazon) | `gd_le8e811kzy4ggddlq` | Collect reviews by product URL |
 
-This demo uses Amazon, but Bright Data offers **ready-made scrapers for 100+ websites** including Walmart, eBay, Google Shopping, and more. Same API pattern, different dataset ID. To switch platforms, swap the `DATASET_ID` in the data loader blocks and adjust the input parameters to match the new scraper's schema. See the [blog post tutorial](https://brightdata.com/blog/how-tos/bright-data-mage-ai-amazon-pipeline-tutorial) for details.
+This demo uses Amazon, but Bright Data offers **ready-made scrapers for 100+ websites** including Walmart, eBay, Google Shopping, and more. Same API pattern, different dataset ID. To switch platforms, swap the `DATASET_ID` in the data loader blocks and adjust the input parameters to match the new scraper's schema. See the [blog post tutorial](https://brightdata.com/blog/ai/mage-ai-with-bright-data) for details.
 
 ## Resources
 
-- [Blog Post Tutorial](https://brightdata.com/blog/how-tos/bright-data-mage-ai-amazon-pipeline-tutorial) – Step-by-step walkthrough
+- [Blog Post Tutorial](https://brightdata.com/blog/ai/mage-ai-with-bright-data) – Step-by-step walkthrough
 - [Bright Data Web Scraping API docs](https://brightdata.com/products/web-scraper) – API reference and dataset catalog
 - [Bright Data free trial](https://brightdata.com) – Get your API token
 - [Mage AI documentation](https://docs.mage.ai) – Pipeline orchestration framework
